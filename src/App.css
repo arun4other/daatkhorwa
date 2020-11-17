@@ -3,6 +3,8 @@
 }
 
 .desktopPicture{
+  position: sticky;
+  z-index: 3;
   float: right;
   top: 25px;
   width: 55px;
