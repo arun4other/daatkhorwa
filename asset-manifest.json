@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/daatkhorwa/static/css/main.f4101856.chunk.css",
+    "main.css": "/daatkhorwa/static/css/main.aa04d991.chunk.css",
     "main.js": "/daatkhorwa/static/js/main.63ea1d34.chunk.js",
     "main.js.map": "/daatkhorwa/static/js/main.63ea1d34.chunk.js.map",
     "runtime-main.js": "/daatkhorwa/static/js/runtime-main.e89bea9a.js",
@@ -8,9 +8,9 @@
     "static/js/2.0d5e4db3.chunk.js": "/daatkhorwa/static/js/2.0d5e4db3.chunk.js",
     "static/js/2.0d5e4db3.chunk.js.map": "/daatkhorwa/static/js/2.0d5e4db3.chunk.js.map",
     "index.html": "/daatkhorwa/index.html",
-    "precache-manifest.efe8a54a1b96aad2c06f3bcd15c70f26.js": "/daatkhorwa/precache-manifest.efe8a54a1b96aad2c06f3bcd15c70f26.js",
+    "precache-manifest.bb25362e3d897bfb50bdd92143b55ae0.js": "/daatkhorwa/precache-manifest.bb25362e3d897bfb50bdd92143b55ae0.js",
     "service-worker.js": "/daatkhorwa/service-worker.js",
-    "static/css/main.f4101856.chunk.css.map": "/daatkhorwa/static/css/main.f4101856.chunk.css.map",
+    "static/css/main.aa04d991.chunk.css.map": "/daatkhorwa/static/css/main.aa04d991.chunk.css.map",
     "static/js/2.0d5e4db3.chunk.js.LICENSE.txt": "/daatkhorwa/static/js/2.0d5e4db3.chunk.js.LICENSE.txt",
     "static/media/Beautiful.jpg": "/daatkhorwa/static/media/Beautiful.24721b39.jpg",
     "static/media/Daatkhor_bhukkhad.jpg": "/daatkhorwa/static/media/Daatkhor_bhukkhad.dbd71e71.jpg",
@@ -59,7 +59,7 @@
   "entrypoints": [
     "static/js/runtime-main.e89bea9a.js",
     "static/js/2.0d5e4db3.chunk.js",
-    "static/css/main.f4101856.chunk.css",
+    "static/css/main.aa04d991.chunk.css",
     "static/js/main.63ea1d34.chunk.js"
   ]
 }

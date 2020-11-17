@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d10f81f23c58d5b23f7ad71920e4099",
+    "revision": "1b2676af8b2e7d31b9740acee96c809e",
     "url": "/daatkhorwa/index.html"
   },
   {
-    "revision": "a65c04f296ebdf9a8058",
-    "url": "/daatkhorwa/static/css/main.f4101856.chunk.css"
+    "revision": "72dee46fbe200ea954d0",
+    "url": "/daatkhorwa/static/css/main.aa04d991.chunk.css"
   },
   {
     "revision": "98d57932a71adcef8c1e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daatkhorwa/static/js/2.0d5e4db3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a65c04f296ebdf9a8058",
+    "revision": "72dee46fbe200ea954d0",
     "url": "/daatkhorwa/static/js/main.63ea1d34.chunk.js"
   },
   {
