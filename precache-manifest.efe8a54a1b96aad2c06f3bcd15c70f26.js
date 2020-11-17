@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c1740624ad4559632e211644f8fd6f7",
+    "revision": "3d10f81f23c58d5b23f7ad71920e4099",
     "url": "/daatkhorwa/index.html"
   },
   {
-    "revision": "b8dcddb5a9adec1d1322",
+    "revision": "a65c04f296ebdf9a8058",
     "url": "/daatkhorwa/static/css/main.f4101856.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daatkhorwa/static/js/2.0d5e4db3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8dcddb5a9adec1d1322",
-    "url": "/daatkhorwa/static/js/main.ed51500a.chunk.js"
+    "revision": "a65c04f296ebdf9a8058",
+    "url": "/daatkhorwa/static/js/main.63ea1d34.chunk.js"
   },
   {
     "revision": "3e02bbdd84f99900a52a",
@@ -80,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daatkhorwa/static/media/chachi.a5f48514.jpg"
   },
   {
+    "revision": "941f382b6bd7d3ac83fa5501e0c1df28",
+    "url": "/daatkhorwa/static/media/dd.941f382b.jpg"
+  },
+  {
     "revision": "f4cb49e3c3ee313b6198813096b49ca0",
     "url": "/daatkhorwa/static/media/dp.f4cb49e3.jpg"
   },
@@ -100,12 +104,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daatkhorwa/static/media/fav.d1d06f0e.jpg"
   },
   {
+    "revision": "1f7189c5c4908184bfb3f0bb6b95cf79",
+    "url": "/daatkhorwa/static/media/first.1f7189c5.jpg"
+  },
+  {
     "revision": "56c5718c37195c8bf1478de28494df86",
     "url": "/daatkhorwa/static/media/haaye.56c5718c.jpg"
   },
   {
-    "revision": "6a5fce28d97a02e311e5b4ad5ef45fb8",
-    "url": "/daatkhorwa/static/media/holi.6a5fce28.jpg"
+    "revision": "9f64fb3fa46e933b58fffe79c1a74410",
+    "url": "/daatkhorwa/static/media/hariom.9f64fb3f.jpg"
+  },
+  {
+    "revision": "0d5681d0c6bcfbf299371b458fb6268b",
+    "url": "/daatkhorwa/static/media/holi.0d5681d0.jpg"
+  },
+  {
+    "revision": "40b3401969f8a3511d5718254dd09c51",
+    "url": "/daatkhorwa/static/media/kiran.40b34019.jpg"
   },
   {
     "revision": "878349f90a54413f67fcb337b82f365f",
@@ -116,12 +132,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daatkhorwa/static/media/mom.b24d199a.jpg"
   },
   {
+    "revision": "f478b6e85f0e0134f4254bb665b52875",
+    "url": "/daatkhorwa/static/media/mumma.f478b6e8.jpg"
+  },
+  {
     "revision": "d2811340a46b85d46aa9c325217c271d",
     "url": "/daatkhorwa/static/media/naakti.d2811340.jpg"
   },
   {
     "revision": "87ac9f810d0ff49a7d12e1bdc9d028e4",
     "url": "/daatkhorwa/static/media/papa.87ac9f81.jpg"
+  },
+  {
+    "revision": "c6d37526fc248501265b912f717b23e1",
+    "url": "/daatkhorwa/static/media/pinki.c6d37526.jpg"
   },
   {
     "revision": "04fa8ca2cd6e58801dc02265119b2df1",
@@ -132,8 +156,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daatkhorwa/static/media/pooja.6ce71369.jpg"
   },
   {
-    "revision": "c79461689f992d7513075d0bbd56808d",
-    "url": "/daatkhorwa/static/media/pout.c7946168.jpg"
+    "revision": "8e23267c7681e535fe0618177babd777",
+    "url": "/daatkhorwa/static/media/pose.8e23267c.jpg"
+  },
+  {
+    "revision": "1e7696eb680516597ed1b99b7aa13c4b",
+    "url": "/daatkhorwa/static/media/pout.1e7696eb.jpg"
+  },
+  {
+    "revision": "a5739a8ccceb5df37684a04c1ddb9753",
+    "url": "/daatkhorwa/static/media/raj.a5739a8c.jpg"
   },
   {
     "revision": "75893dee093689cb2d6270d43eedd2fe",
@@ -148,11 +180,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daatkhorwa/static/media/shivansh.1fb7184a.jpg"
   },
   {
+    "revision": "dab279d1f561fb95e9e879e52829f98c",
+    "url": "/daatkhorwa/static/media/smile.dab279d1.jpg"
+  },
+  {
     "revision": "e96c556a00cae72008d1b31ab6d8c2da",
     "url": "/daatkhorwa/static/media/sonia.e96c556a.jpg"
   },
   {
-    "revision": "fb0f75eb0b1dbf259657f841eb58a2e3",
-    "url": "/daatkhorwa/static/media/theatre.fb0f75eb.jpg"
+    "revision": "221428ad6eba369f44aad88c7cf98818",
+    "url": "/daatkhorwa/static/media/theatre.221428ad.jpg"
+  },
+  {
+    "revision": "1f7189c5c4908184bfb3f0bb6b95cf79",
+    "url": "/daatkhorwa/static/media/viratpujan.1f7189c5.jpg"
   }
 ]);
